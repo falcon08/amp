@@ -1,12 +1,10 @@
 ---
 title: AMP- Accelerated Mobile Pages
 ---
-##**What is AMP ?**
+##**What is AMP?**
 
 AMP is an open-source library that provides a straightforward way to create web pages that are compelling, smooth, and load near instantaneously for users. AMP pages are just web pages that you can link to and are controlled by you.
-
 AMP builds on your existing skill sets and frameworks to create web pages. AMP is supported by many different platforms, and it's compatible across browsers.
-
 AMP's ecosystem includes 25 million domains, 100+ technology providers, and leading platforms, that span the areas of publishing, advertising, e-commerce, local and small businesses, and more!
 
 **##How AMP Works**
@@ -24,5 +22,11 @@ The following optimizations combined are the reason AMP pages are so fast they a
 If you'd rather listen than read, watch the explainer video:
 [Watch the video for more insights](https://www.youtube.com/watch?time_continue=1&v=9Cfxm7cikMY)
 
+# Reference
 [Reference website](https://www.ampproject.org/)
-[Reference github repository](https://www.ampproject.org/)
+[Reference github repository](https://www.github.com/ampproject/amphtml)
+
+You can start building you own AMP website using AMP templates from [Reference website](https://www.ampstart.com)
+
+
+
